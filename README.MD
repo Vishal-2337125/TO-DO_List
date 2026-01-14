@@ -1,0 +1,1 @@
+A lightweight Python-based To-Do List Manager that runs in the terminal. Users can add, view, complete, and delete tasks, with all data stored in a JSON file. Each task supports tags, due dates, and status tracking. Designed for simplicity, persistence, and clean task management.
