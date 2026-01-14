@@ -33,3 +33,11 @@ It allows users to add, view, complete, and delete tasks, with all data stored i
 
 ```bash
 python main.py
+
+Applications
+
+Daily task management
+
+Productivity tracking
+
+Understanding CLI-based applications
