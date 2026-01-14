@@ -24,6 +24,16 @@ It allows users to add, view, complete, and delete tasks, with all data stored i
 
 ---
 
+
+Applications
+
+Daily task management
+
+Productivity tracking
+
+Understanding CLI-based applications
+
+
 ## How to Run
 
 1. Install Python 3.x  
@@ -35,11 +45,4 @@ It allows users to add, view, complete, and delete tasks, with all data stored i
 python main.py
 ---
 
-Applications
-
-Daily task management
-
-Productivity tracking
-
-Understanding CLI-based applications
 
